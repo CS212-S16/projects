@@ -1,6 +1,8 @@
 Project 2 - Thread-safe Music Library
 =====================================
 
+:warning: The test cases for this project are not yet available.
+
 For this project, you will extend your previous project to support concurrency. You must implement a thread-safe music library and use a work queue to build the library using multiple threads. Note that you will extend this to support search functionality in Project 3.
 
 The input and output requirements of this project are identical to the previous project. In addition to the normal testing of your project, you must also compare the execution time of this project to your previous code.
