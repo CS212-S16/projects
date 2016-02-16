@@ -63,6 +63,6 @@ Best of Grunge: TRAVBAH128F9305DFC
 
 
 
-## Submissionn
+## Submission
 
 Follow these instructions *carefully* in order to submit your project: [Project Guidelines](https://github.com/CS212-S16/lectures/blob/master/notes/projectguidelines.md)
