@@ -29,7 +29,7 @@ You are guaranteed only one code review during finals week. All code must be sub
 
 **Add Song to Favorites** - If a user is logged in, allow him/her to add songs to a favorites list. A sample interface for this is below. When the search shows a set of results, I display a column indicating, for each song, whether the song is already *liked* or may be added to the favorites list. If you want to get fancier, you could use images here, like :thumbsup:.
 
-![favs.png](favs.png) 
+![favs.png](figs/favs.png) 
 
 **Display Favorites** - The main page will provide a link to view a list of all of the favorites the user has saved. You can see an example in the image above. For full credit, the favorites information must be stored in the database. My solution uses a table with two columns, the username and trackID. There is a row in the table for each favorite.
 
